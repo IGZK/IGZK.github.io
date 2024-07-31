@@ -10,39 +10,6 @@ var DATA = {
 		"合肥工业大学（宣城校区）" : ["孙逸凯", "吴立洲"],
 	},
 
-	"city_2" : {
-		"univ_C" : ["Stephen", "Klay", "Kevin"]
-	}
-
-	"city_2" : {
-		"univ_C" : ["Stephen", "Klay", "Kevin"]
-	}
-
-
-	"city_2" : {
-		"univ_C" : ["Stephen", "Klay", "Kevin"]
-	}
-
-
-	"city_2" : {
-		"univ_C" : ["Stephen", "Klay", "Kevin"]
-	}
-
-	"city_1" : {
-		"univ_A" : ["Peter", "Mary"],
-		"univ_B" : ["Tony", "Pepper"]
-	},
-
-	"city_1" : {
-		"univ_A" : ["Peter", "Mary"],
-		"univ_B" : ["Tony", "Pepper"]
-	},
-
-	"city_1" : {
-		"univ_A" : ["Peter", "Mary"],
-		"univ_B" : ["Tony", "Pepper"]
-	},
-
 };
 
 var SPEC_POS = {
